@@ -1,0 +1,9 @@
+Name: WhoMadeIt
+Package: org.thebigboss.whomadeit
+Depends: firmware (>= 3.0)
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show the author of package instead of its source.
